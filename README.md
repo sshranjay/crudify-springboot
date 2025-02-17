@@ -44,3 +44,6 @@ The application will start on `http://localhost:9090`.
 | **DELETE** | `/deleteBookById/{id}`        | Delete book by ID     |_No Body Required_|
 | **DELETE** | `/deleteBookByAuthor/{author}`| Delete book by Author |_No Body Required_|
 
+## Future Scope
+Implement JWT Authentication and Authorization so that endpoint access can be controlled for each user.
+
